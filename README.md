@@ -16,4 +16,3 @@ A simple Todo List application built with React and Redux Toolkit. This applicat
 - JavaScript
 - HTML
 - CSS
-
